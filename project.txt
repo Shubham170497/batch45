@@ -1,9 +1,8 @@
 This is my code for project
 
-<<<<<<< HEAD
+
 great to learn 
 
 i am fulpati
-=======
+
 i am shubham
->>>>>>> 72c4a813ea073bcca07ea6c2976b4808c8438cf1
